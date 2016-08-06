@@ -1,0 +1,27 @@
+_repo: Morning-Bells--Or-Waking-Thoughts-for-Little-Ones_11563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Havergal, Frances Ridley
+    alias: Havergal, F. R. (Frances Ridley)
+    birthdate: 1836
+    deathdate: 1879
+    gutenberg_agent_id: '3608'
+    url: http://www.gutenberg.org/2009/agents/3608
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Ridley_Havergal
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Children -- Prayers and devotions'
+- !lcsh 'Christian life -- Juvenile literature'
+- GITenberg
+title: Morning Bells; Or, Waking Thoughts for Little Ones
+url: http://www.gutenberg.org/ebooks/11563
