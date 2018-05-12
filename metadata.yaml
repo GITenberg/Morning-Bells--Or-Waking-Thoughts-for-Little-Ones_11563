@@ -1,5 +1,8 @@
 _repo: Morning-Bells--Or-Waking-Thoughts-for-Little-Ones_11563
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Havergal, Frances Ridley
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3608
     wikipedia: http://en.wikipedia.org/wiki/Frances_Ridley_Havergal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11563#Morning-Bells--Or-Waking-Thoughts-for-Little-Ones
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
